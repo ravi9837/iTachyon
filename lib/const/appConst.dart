@@ -1,0 +1,12 @@
+bool passwordVisible=false;
+bool conPasswordVisible=false;
+bool signInPasswordVisible=false;
+bool firstNameValidate = false;
+bool lastNameValidate = false;
+bool phoneValidate = false;
+bool emailValidate = false;
+bool passwordValidate = false;
+bool signInPasswordValidate = false;
+bool confirmPasswordValidate = false;
+bool clinicTerms = true;
+String clinic_code = '12345';
